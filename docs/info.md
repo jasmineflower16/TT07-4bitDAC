@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The goal of this project is to design a binary-weighted DAC using ideal operational amplifier designed in Verilog. A binary-weighted DAC (Digital-to-Analog Converter) is a type of DAC that uses binary-weighted resistors or current sources to convert a digital input into an analog output.
 
 ## How to test
 
-Explain how to use your project
+This integrated circuit is tested by measuring the analog output signal of all combinations of digital inputs b0, b1, b2 and b3 generated from signal generator. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A multimeter to measure the output voltage.
