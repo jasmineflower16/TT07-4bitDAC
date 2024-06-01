@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_example (
+module tt_um_LordMoMo_4bit_DAC (
     input  wire       VGND,
     input  wire       VPWR,
     input  wire [7:0] ui_in,    // Dedicated inputs
